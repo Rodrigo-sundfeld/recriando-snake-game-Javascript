@@ -1,0 +1,12 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(31, 27, 27);
+    color: rgb(29, 219, 29);
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
